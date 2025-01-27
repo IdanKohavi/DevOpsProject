@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Simple Web Application Project</title>
+	<title>DevOps Course Final Project</title>
 </head>
 <body>
-	<h1>Welcome to our Project - Dudi Ohaion, Idan Kohavi</h1>
+	<h1>DevOps Course Final Project</h1>
 	<form action="thankyou.jsp" method="get">
 		<label for="name">Enter Your Name:</label>
 		<input type="text" id="name" name="name" required>
