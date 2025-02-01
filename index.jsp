@@ -8,7 +8,7 @@
 	<form action="thankyou.jsp" method="get">
 		<label for="name">Enter Your Name:</label>
 		<input type="text" id="name" name="name" required>
-		<button type="submit">Click on me</button>
+		<button type="submit">Submit</button>
 	</form>
 	<br>
 	<a href="thankyou.jsp?name=Guest">Go to Thank You Page</a>
